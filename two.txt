@@ -1,3 +1,0 @@
-This is a new file called two.txt.
-
-It was created as requested by the user.
